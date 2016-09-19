@@ -9,7 +9,7 @@ I made these scripts for my own convinience so plese do not tell me if something
 System requirements:
 - python 3
 - ubuntu 16.04
-- sudo/root priviledges to add job to cron, restart services and update plugin bindle
+- sudo/root priviledges to add a job to cron, restart services and update plugin bindle
 - https://github.com/mrworf/plexupdate scrtipt
 
 P.S. If you know any other way to autoupdate kino.pub or other plex bundles, pls, let me know.
